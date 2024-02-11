@@ -7,8 +7,8 @@
 - The code includes the creation of essential tables, utilizing primary keys, candidate keys, and implementing queries, procedures, functions, and triggers for seamless database management.
 
 ## Key Features
-Database Schema: Well-designed tables with primary and candidate keys.
-Queries: SQL/PL-SQL queries for data retrieval and manipulation.
-Procedures and Functions: Modularized logic for specific functionalities.
-Triggers: Automated actions based on specific events in the database.
+- Database Schema: Well-designed tables with primary and candidate keys.
+- Queries: SQL/PL-SQL queries for data retrieval and manipulation.
+- Procedures and Functions: Modularized logic for specific functionalities.
+- Triggers: Automated actions based on specific events in the database.
 
